@@ -38,7 +38,7 @@ Este projeto foi criado apenas para fins educativos e práticos. Não são esper
 
 ## Contato 📬
 
-Para qualquer dúvida relacionada a este projeto educacional, entre em contato via e-mail: [seuemail@example.com](mailto:diogo.alcantara1997@gmail.com).
+Para qualquer dúvida relacionada a este projeto educacional, entre em contato via e-mail: [diogo.alcantara1997@gmail.com](mailto:diogo.alcantara1997@gmail.com).
 
 ---
 
