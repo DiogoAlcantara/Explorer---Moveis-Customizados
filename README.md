@@ -6,6 +6,10 @@
 
 Este projeto foi desenvolvido com o objetivo de solidificar os conceitos aprendidos sobre HTML e CSS, por meio da criação de um site fictício para a empresa "Móveis Customizados". A empresa se dedica a criar ambientes únicos e exclusivos, com ênfase no design de interiores.
 
+## Visualizar o Projeto 🌐
+
+Você pode visualizar o projeto aqui: [Explorer - Móveis Customizados](https://diogoalcantara.github.io/Explorer---Moveis-Customizados/)
+
 ## Estrutura do Projeto 🏗️
 
 - **index.html:** O arquivo HTML principal que define a estrutura do site, incluindo o cabeçalho, seções de conteúdo e rodapé.
